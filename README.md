@@ -10,6 +10,7 @@ This repository contains basic implementations of Artificial Neural Networks (AN
 
 ## Datasets
 
+- `IRIS.csv`: Iris flower dataset
 - `Churn_Modelling.csv`: Customer churn data
 - `Date_Fruit_Datasets.xlsx`: Date fruit dataset
-- `IRIS.csv`: Iris flower dataset
+
